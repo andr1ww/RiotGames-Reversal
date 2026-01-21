@@ -22,7 +22,7 @@ The arguments I found were pretty simple, though they do not bypass SSL.
 ## Communication
 Now, this is present time. I currently have a very small bit of knowledege on how Riot's communication works. Though, i managed to get the first request they call to redirect to my server. The first request they call is 
 **GET /system/v1/builds**
-**Response: 
+**Response: **
 
 ```json
 {
