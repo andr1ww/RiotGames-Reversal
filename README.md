@@ -25,6 +25,7 @@ GET /system/v1/builds
 Response:  // temp
 {"builds":[{"branch":"main","branchFull":"refs/heads/main","codeBuildId":12345,"contentBuildId":67890,"gameBranch":"game-main","gameBranchFull":"refs/heads/game-main","gameDataBuildId":54321,"patchline":"stable","patchlineVisibleName":"Stable","version":"1.0.0"}]}
 ``
+<br></br>
 **It ended up working!** (Img below)
 <img width="1383" height="46" alt="image" src="https://github.com/user-attachments/assets/23d442aa-d7ca-4a5a-9371-61ddd4c7e904" />
 
