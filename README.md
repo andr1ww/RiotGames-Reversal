@@ -4,5 +4,5 @@ Hey there, and welcome to this repository. I'll be using it to document my progr
 *please star ⭐* 
 
 ## Info
-Valorant Version: 1.08
-Riot Client: newest, i don't currently have an older ver.
+**Valorant Version:** 1.08  
+**Riot Client:** Newest (no older version available)
