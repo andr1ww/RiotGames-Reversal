@@ -17,3 +17,12 @@ The arguments I found were pretty simple, though they do not bypass SSL.
 -remoting-auth-token="andr1ww" -remoting-app-port=8888
 ```
 (*There was also one extra one I found: -developer, not sure what it does yet though.*)
+
+## Communication
+Now, this is present time. I currently have a very small bit of knowledege on how Riot's communication works. Though, i managed to get the first request they call to redirect to my server. The first request they call is 
+``
+GET /system/v1/builds 
+Response:  // temp
+{"builds":[{"branch":"main","branchFull":"refs/heads/main","codeBuildId":12345,"contentBuildId":67890,"gameBranch":"game-main","gameBranchFull":"refs/heads/game-main","gameDataBuildId":54321,"patchline":"stable","patchlineVisibleName":"Stable","version":"1.0.0"}]}
+``
+It ended up working! <img width="1383" height="46" alt="image" src="https://github.com/user-attachments/assets/23d442aa-d7ca-4a5a-9371-61ddd4c7e904" />
