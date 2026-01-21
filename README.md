@@ -41,7 +41,6 @@ Now, this is present time. I currently have a very small bit of knowledege on ho
   ]
 }
 ```
-<br></br>
 **It ended up working!** (Img below)
 <img width="1383" height="46" alt="image" src="https://github.com/user-attachments/assets/23d442aa-d7ca-4a5a-9371-61ddd4c7e904" />
 
