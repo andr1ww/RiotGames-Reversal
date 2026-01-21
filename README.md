@@ -30,3 +30,5 @@ Response:  // temp
 <img width="1383" height="46" alt="image" src="https://github.com/user-attachments/assets/23d442aa-d7ca-4a5a-9371-61ddd4c7e904" />
 
 After I got here, im now where i currently am which is stuck on the socket connection for riot client, I'm still trying to figure out exactly what is sent / requested and also how to get past SSL pinning. For the http request i used fidlder to get past SSL.
+<br></br>
+<img width="1003" height="167" alt="image" src="https://github.com/user-attachments/assets/f785e901-0c30-4191-a2b1-39bee41e62cf" />
