@@ -48,3 +48,8 @@ Now, this is present time. I currently have a very small bit of knowledege on ho
 After I got here, im now where i currently am which is stuck on the socket connection for riot client, I'm still trying to figure out exactly what is sent / requested and also how to get past SSL pinning. For the http request i used fidlder to get past SSL.
 <br></br>
 <img width="1003" height="167" alt="image" src="https://github.com/user-attachments/assets/f785e901-0c30-4191-a2b1-39bee41e62cf" />
+
+## Update: 6/6/26
+I haven't really been posting my progress, but just know... Valorant OG is not a joke anymore!
+<img width="1878" height="1079" alt="image" src="https://github.com/user-attachments/assets/c5c8f441-8942-4136-8f96-bf5194890c29" />
+
